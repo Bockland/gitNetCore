@@ -1,0 +1,2 @@
+# gitNetCore
+Descripción del proyecto
