@@ -1,0 +1,58 @@
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.exe
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.deps.json
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.runtimeconfig.json
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.runtimeconfig.dev.json
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.pdb
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.csprojAssemblyReference.cache
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.AssemblyInfoInputs.cache
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.AssemblyInfo.cs
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.RazorTargetAssemblyInfo.cache
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\staticwebassets\API.JWT.AdminUser.StaticWebAssets.Manifest.cache
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\staticwebassets\API.JWT.AdminUser.StaticWebAssets.xml
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.pdb
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.genruntimeconfig.cache
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.csproj.CopyComplete
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.csproj.CoreCompileInputs.cache
+C:\Users\teuto\source\repos\API.JWT.AdminUser\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.MvcApplicationPartsAssemblyInfo.cache
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.exe
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.deps.json
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.runtimeconfig.json
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.runtimeconfig.dev.json
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\API.JWT.AdminUser.pdb
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.csprojAssemblyReference.cache
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.AssemblyInfoInputs.cache
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.AssemblyInfo.cs
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.RazorTargetAssemblyInfo.cache
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.csproj.CopyComplete
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\staticwebassets\API.JWT.AdminUser.StaticWebAssets.Manifest.cache
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\staticwebassets\API.JWT.AdminUser.StaticWebAssets.xml
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.dll
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.pdb
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.genruntimeconfig.cache
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.csproj.CoreCompileInputs.cache
+D:\Curso git\pruebaNetCore\API.JWT.AdminUser\obj\Debug\netcoreapp3.1\API.JWT.AdminUser.MvcApplicationPartsAssemblyInfo.cache
